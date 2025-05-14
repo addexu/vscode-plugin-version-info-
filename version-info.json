@@ -1,0 +1,6 @@
+{
+    "version": "0.0.2",
+    "releaseDate" :"2025-05-14",
+    "releaseNotes" : "自动更新功能",
+    "downloadUrl" : "https://git.woa.com/joeyjyxu/ftp-dev-plugin/blob/master/ftp-dev-plugin-0.0.2.vsix"
+}
